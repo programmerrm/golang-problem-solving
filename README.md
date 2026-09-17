@@ -15,53 +15,7 @@ A collection of Go solutions for algorithmic problems, data structures, and codi
 - **Concurrency** — Goroutines, channels, sync patterns
 - **Math & Bit Manipulation** — Prime numbers, bitwise operations
 
-## Project Structure
+## Connect with me
 
-```
-golang-problem-solving/
-├── arrays/
-├── strings/
-├── linkedlist/
-├── stacks/
-├── queues/
-├── trees/
-├── graphs/
-├── sorting/
-├── searching/
-├── dynamicprogramming/
-├── recursion/
-├── hashmaps/
-├── concurrency/
-└── math/
-```
-
-## Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/programmerrm/golang-problem-solving.git
-
-# Navigate to the directory
-cd golang-problem-solving
-
-# Run any solution
-go run arrays/two-sum.go
-```
-
-## Running Tests
-
-```bash
-# Run all tests
-go test ./...
-
-# Run tests for a specific package
-go test ./arrays/...
-```
-
-## Prerequisites
-
-- Go 1.21 or later
-
-## Connect
-
-GitHub: [rasel-mahmud](https://github.com/programmerrm)
+GitHub: [Rasel Mahmud](https://github.com/programmerrm)
+Linkedin: [Rasel Mahmud](https://www.linkedin.com/in/programmerrm)
