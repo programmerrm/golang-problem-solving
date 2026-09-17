@@ -17,5 +17,5 @@ A collection of Go solutions for algorithmic problems, data structures, and codi
 
 ## Connect with me
 
-GitHub: [Rasel Mahmud](https://github.com/programmerrm)
-Linkedin: [Rasel Mahmud](https://www.linkedin.com/in/programmerrm)
+- **GitHub:** [Rasel Mahmud](https://github.com/programmerrm)
+- **LinkedIn:** [Rasel Mahmud](https://www.linkedin.com/in/programmerrm)
