@@ -38,7 +38,7 @@ By the end of Day One, I should be able to:
 
 ---
 
-# 🧠 Learning Philosophy
+# Learning Philosophy
 
 I will **not** learn Go variables by reading all syntax first and then trying to memorize it.
 
@@ -78,7 +78,7 @@ The objective is:
 
 ---
 
-# 📚 Day One Topics
+# Topics
 
 ## 1. What is a Variable?
 
@@ -668,7 +668,7 @@ This concept will be introduced when solving problems involving multiple return 
 
 ---
 
-# 🧩 Problem-Solving Structure
+# Problem-Solving Structure
 
 Every problem will follow this structure.
 
@@ -750,7 +750,7 @@ How did I fix it?
 
 ---
 
-# 🧪 Problem Levels
+# Problem Levels
 
 ## Level 1 — Basic Variables
 
@@ -887,7 +887,7 @@ My task:
 
 ---
 
-# 📝 Learning Log
+# Learning Log
 
 For every problem I solve, I will record something like this:
 
@@ -918,48 +918,48 @@ A variable's type determines what kind of value it can store.
 
 ---
 
-# 📂 Suggested Folder Structure
+# Suggested Folder Structure
 
 ```text
-day-01-variables/
+variables/
 │
 ├── README.md
 │
-├── 01-basic-variables/
+├── basic-variables/
 │   ├── problem-01.go
 │   ├── problem-02.go
 │   └── problem-03.go
 │
-├── 02-var/
+├── var/
 │   ├── problem-01.go
 │   └── problem-02.go
 │
-├── 03-short-declaration/
+├── short-declaration/
 │   ├── problem-01.go
 │   └── problem-02.go
 │
-├── 04-data-types/
+├── data-types/
 │   ├── integer.go
 │   ├── float.go
 │   ├── string.go
 │   └── boolean.go
 │
-├── 05-zero-values/
+├── zero-values/
 │   └── problems.go
 │
-├── 06-type-conversion/
+├── type-conversion/
 │   └── problems.go
 │
-├── 07-constants/
+├── constants/
 │   └── problems.go
 │
-├── 08-scope/
+├── scope/
 │   └── problems.go
 │
-├── 09-debugging/
+├── debugging/
 │   └── problems.go
 │
-└── 10-final-problems/
+└── final-problems/
     ├── problem-01.go
     ├── problem-02.go
     └── problem-03.go
@@ -967,7 +967,7 @@ day-01-variables/
 
 ---
 
-# 📊 Day One Checklist
+# Checklist
 
 ## Variable Basics
 
@@ -1029,7 +1029,7 @@ day-01-variables/
 
 ---
 
-# 🏆 Final Day One Challenge
+# Final Challenge
 
 At the end of Day One, I will solve problems without looking at previous solutions.
 
@@ -1070,7 +1070,7 @@ Output
 
 ---
 
-# 🔍 Questions I Should Be Able to Answer
+# Questions I Should Be Able to Answer
 
 Before moving to Day Two, I should be able to explain:
 
@@ -1160,7 +1160,7 @@ If I cannot explain these concepts clearly, I should solve more problems before 
 
 ---
 
-# 📈 Progress
+# Progress
 
 | Topic               | Status |
 | ------------------- | ------ |
@@ -1190,7 +1190,7 @@ If I cannot explain these concepts clearly, I should solve more problems before 
 
 ---
 
-# 💡 Rules for Myself
+# Rules for Myself
 
 ### Rule 1
 
@@ -1232,7 +1232,7 @@ Move forward when I can **explain + implement + debug** the concept.
 
 ---
 
-# 🚀 Day One Definition of Done
+# Definition of Done
 
 Day One is complete when I can:
 
