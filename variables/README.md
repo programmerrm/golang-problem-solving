@@ -12,7 +12,7 @@ The main idea is:
 
 ---
 
-## 🎯 Day One Goal
+## Day One Goal
 
 By the end of Day One, I should be able to:
 
